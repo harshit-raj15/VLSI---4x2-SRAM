@@ -13,7 +13,7 @@
     <a href="https://github.com/harshit-raj15/VLSI-4x2-SRAM/blob/main/4x2%20SRAM_Group-%20Bits%20and%20Bytes.pdf"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="#usage">View Final SRAM</a>
+    <a href="#final-sram">View Final SRAM</a>
   </p>
 </p>
 
@@ -25,7 +25,7 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li><a href="#about-the-components">About the Components</a></li>
-    <li><a href="#finalsram">Final SRAM</a></li>
+    <li><a href="#final-sram">Final SRAM</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#authors">Authors</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -61,8 +61,8 @@ The design of an SRAM array involves various key components which work together 
 A 2-input NAND gate works by producing a high output signal only when either or both of its inputs are low.
 
 <div align="center">
-  <img src="Images/2nand-schematic.png" alt="Screenshot 1" width="250" />
-  <img src="Images/2nand-layout.png" alt="Screenshot 2" width="250" />
+  <img src="Images/2nand-schematic.png" alt="Screenshot 1" height="300" width="250" />
+  <img src="Images/2nand-layout.png" alt="Screenshot 2" height="300" width="250" />
 </div>
 
 ### Inverter
