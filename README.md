@@ -70,8 +70,8 @@ A 2-input NAND gate works by producing a high output signal only when either or 
 An inverter gate, also known as a NOT gate, is a logic gate that inverts the input signal it receives. If input is 1 then output is 0 and if input is 0 then output is 1.
 
 <div align="center">
-  <img src="Images/inv-schematic.png" alt="Screenshot 1" width="250" />
-  <img src="Images/inv-layout.png" alt="Screenshot 2" width="250" />
+  <img src="Images/inv-schematic.png" alt="Screenshot 1" height="300" width="250" />
+  <img src="Images/inv-layout.png" alt="Screenshot 2" height="300" width="250" />
 </div>
 
 ### Column Decoder
@@ -79,8 +79,8 @@ An inverter gate, also known as a NOT gate, is a logic gate that inverts the inp
 To complete the 4*2 SRAM we are using a 1:2 column decoder. It works in conjunction with the row decoder to select specific columns in the selected row. Once a row has been selected by the row decoder, the column ecoder further restricts the selection by including only one of the two-bit rows corresponding to the selected column.
 
 <div align="center">
-  <img src="Images/clm-schematic.png" alt="Screenshot 1" width="250" />
-  <img src="Images/clm-layout.png" alt="Screenshot 2" width="250" />
+  <img src="Images/clm-schematic.png" alt="Screenshot 1" height="300" width="250" />
+  <img src="Images/clm-layout.png" alt="Screenshot 2" height="300" width="250" />
 </div>
 
 ### Row Decoder
@@ -88,8 +88,8 @@ To complete the 4*2 SRAM we are using a 1:2 column decoder. It works in conjunct
 During a read or write operation, the row decoder controls which row of memory cells will be accessed.  In a 4x2 SRAM with 4 rows, the row decoder will usually select one of the 4 word lines (WL0 to WL3) using 2 address bits (A1 and A0). It selects the word line as per the input given to the decoder.
 
 <div align="center">
-  <img src="Images/rowdec-schematic.png" alt="Screenshot 1" width="250" />
-  <img src="Images/rowdec-layout.png" alt="Screenshot 2" width="250" />
+  <img src="Images/rowdec-schematic.png" alt="Screenshot 1" height="300" width="250" />
+  <img src="Images/rowdec-layout.png" alt="Screenshot 2" height="300" width="250" />
 </div>
 
 ### Precharge
@@ -97,8 +97,8 @@ During a read or write operation, the row decoder controls which row of memory c
 The precharge circuit is responsible for preparing the bitline and bitline bar for read and write operation. The precharge circuit ensures the bitlines are precharges to Vdd or Vdd/2 before every operation for a successful read and write.
 
 <div align="center">
-  <img src="Images/prech-schematic.png" alt="Screenshot 1" width="250" />
-  <img src="Images/prech-layout.png" alt="Screenshot 2" width="250" />
+  <img src="Images/prech-schematic.png" alt="Screenshot 1" height="300" width="250" />
+  <img src="Images/prech-layout.png" alt="Screenshot 2" height="300" width="250" />
 </div>
 
 ### Sense Amp
@@ -106,8 +106,8 @@ The precharge circuit is responsible for preparing the bitline and bitline bar f
 The cross coupled sense amplifier equipped with a transmission gate, provides reliable and efficient read operations. The design utilizes the pair of cross coupled inverters to detect minimal difference in the bit and bitline bar and amplify the result to a full logic level for a successful read operation.
 
 <div align="center">
-  <img src="Images/sense-schematic.png" alt="Screenshot 1" width="250" />
-  <img src="Images/sense-layout.png" alt="Screenshot 2" width="250" />
+  <img src="Images/sense-schematic.png" alt="Screenshot 1" height="300" width="250" />
+  <img src="Images/sense-layout.png" alt="Screenshot 2" height="300" width="250" />
 </div>
 
 ### Read Write Circuit
@@ -116,8 +116,8 @@ The write driver circuit enables data writing by applying specific voltage level
 While writing a 1, the bitline is driven to 1 and the bitline bar is driven to a 0. Similarly, to write a 0, bitline is driven to a logic 0 and the bitline bar is pulled up to a logic 1.
 
 <div align="center">
-  <img src="Images/readwr-schematic.png" alt="Screenshot 1" width="250" />
-  <img src="Images/readwr-layout.png" alt="Screenshot 2" width="250" />
+  <img src="Images/readwr-schematic.png" alt="Screenshot 1" height="300" width="250" />
+  <img src="Images/readwr-layout.png" alt="Screenshot 2" height="300" width="250" />
 </div>
 
 ### SRAM Cell
@@ -125,8 +125,8 @@ While writing a 1, the bitline is driven to 1 and the bitline bar is driven to a
 The SRAM bit cell block is the main building block of the whole 4*2 SRAM. The most common implementation is the 6T SRAM cell, which offers an excellent balance of performance, reliability, and density.
 
 <div align="center">
-  <img src="Images/sramcell-schematic.png" alt="Screenshot 1" width="250" />
-  <img src="Images/sramcell-layout.png" alt="Screenshot 2" width="250" />
+  <img src="Images/sramcell-schematic.png" alt="Screenshot 1" height="300" width="250" />
+  <img src="Images/sramcell-layout.png" alt="Screenshot 2" height="300" width="250" />
 </div>
 
 <!-- USAGE EXAMPLES -->
@@ -136,8 +136,8 @@ The SRAM bit cell block is the main building block of the whole 4*2 SRAM. The mo
 The following images show the complete 4x2 SRAM after combining all the components.
 
 <div align="center">
-  <img src="Images/sram-schematic.png" alt="Screenshot 1" width="250" />
-  <img src="Images/sram-layout.png" alt="Screenshot 2" width="250" />
+  <img src="Images/sram-schematic.png" alt="Screenshot 1" height="300" width="250" />
+  <img src="Images/sram-layout.png" alt="Screenshot 2" height="300" width="250" />
 </div>
 
 <!-- LICENSE -->
