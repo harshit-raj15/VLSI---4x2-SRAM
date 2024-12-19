@@ -39,6 +39,17 @@ This project presents the design, simulation, and layout of an 8-bit (4x2) SRAM 
 
 [4*2 SRAM](https://github.com/harshit-raj15/VLSI-4x2-SRAM/blob/main/4x2%20SRAM_Group-%20Bits%20and%20Bytes.pdf)
 
+### List of Components Used
+- 2 Input NAND Gate
+- Inverter
+- Column Decoder
+- Row Decoder
+- Precharge
+- Sense Amp
+- Read Write Circuit
+- SRAM Cell
+- Final SRAM
+
 <!-- USAGE EXAMPLES -->
 
 ## Final SRAM
