@@ -1,0 +1,26 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'senseamp layout SRAM':
+  info: Assign pin label "read_enable" at (0.3300, 0.2050) to layer `metal1_conn'.
+  info: Assign pin label "gnd" at (1.4200, -0.2100) to layer `metal1_conn'.
+  info: Assign pin label "data_out" at (0.6200, 0.9000) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (1.3800, 1.6400) to layer `metal1_conn'.
+  info: Assign pin label "bl_bar" at (0.5350, 3.9750) to layer `metal1_conn'.
+  info: Assign pin label "bl" at (2.3100, 3.9750) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'senseamp layout SRAM':
+  info: Assign pin label "read_enable" at (0.3300, 0.2050) to layer `metal1_conn'.
+  info: Assign pin label "gnd" at (1.4200, -0.2100) to layer `metal1_conn'.
+  info: Assign pin label "data_out" at (0.6200, 0.9000) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (1.3800, 1.6400) to layer `metal1_conn'.
+  info: Assign pin label "bl_bar" at (0.5350, 3.9750) to layer `metal1_conn'.
+  info: Assign pin label "bl" at (2.3100, 3.9750) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

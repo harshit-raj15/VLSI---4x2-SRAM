@@ -1,0 +1,22 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'inverter layout SRAM':
+  info: Assign pin label "gnd" at (0.6000, 0.1550) to layer `metal1_conn'.
+  info: Assign pin label "in" at (0.2900, 0.8500) to layer `metal1_conn'.
+  info: Assign pin label "out" at (0.6000, 0.8525) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (0.6000, 1.6250) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'inverter layout SRAM':
+  info: Assign pin label "gnd" at (0.6000, 0.1550) to layer `metal1_conn'.
+  info: Assign pin label "in" at (0.2900, 0.8500) to layer `metal1_conn'.
+  info: Assign pin label "out" at (0.6000, 0.8525) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (0.6000, 1.6250) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

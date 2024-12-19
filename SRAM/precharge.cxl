@@ -1,0 +1,15 @@
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "precharge schematic SRAM" "precharge layout SRAM"
+N vdd vdd
+N bl_bar bl_bar
+N bl bl
+N precharge precharge
+I PM2 avD10_2
+I PM1 avD10_1
+I PM0 avD10_3
+

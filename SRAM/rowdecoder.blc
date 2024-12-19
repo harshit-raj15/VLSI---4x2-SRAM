@@ -1,0 +1,7 @@
+"inverter layout SRAM" "inverter schematic SRAM" "g45n1svt(MOS)" "g45p1svt(MOS)"
+"g45p1svt(MOS)" "g45p1svt(MOS)"
+"g45n1svt(MOS)" "g45n1svt(MOS)"
+"2nand layout SRAM" "2nand schematic SRAM" "g45n1svt(MOS)" "g45p1svt(MOS)"
+"rowdecoder layout SRAM" "rowdecoder schematic SRAM"
+Devices filtered from layout
+"TIE"

@@ -1,0 +1,13 @@
+Schematic                       | Layout                       | Status
+-------------------------------------------------------------------------------
+precharge schematic SRAM        | precharge layout SRAM        | matched    
+2nand schematic SRAM            | 2nand layout SRAM            | matched    
+inverter schematic SRAM         | inverter layout SRAM         | matched    
+rowdecoder schematic SRAM       | rowdecoder layout SRAM       | matched    
+sramcell schematic SRAM         | sramcell layout SRAM         | matched    
+columndecoder schematic SRAM    | columndecoder layout SRAM    | matched    
+senseamp schematic SRAM         | senseamp layout SRAM         | matched    
+read_write schematic SRAM       | read_write layout SRAM       | matched    
+sram_final schematic SRAM       | sram_final layout SRAM       | matched    
+
+Schematic and Layout Match

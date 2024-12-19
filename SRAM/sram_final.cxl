@@ -1,0 +1,176 @@
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "precharge schematic SRAM" "precharge layout SRAM"
+N vdd avC5
+N bl_bar avC2
+N bl avC3
+N precharge avC4
+I PM2 avD10_2
+I PM1 avD10_3
+I PM0 avD10_1
+
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "2nand schematic SRAM" "2nand layout SRAM"
+N a avC3
+N b avC4
+N out avC2
+N vdd avC5
+N gnd avT598_1
+I PM1 avD10_1
+I PM0 avD10_2
+I NM1 avD2_2
+I NM0 avD2_1
+
+C "inverter schematic SRAM" "inverter layout SRAM"
+N vdd avC4
+N gnd avT598_1
+N in avC3
+N out avC2
+I PM0 avD10_1
+I NM0 avD2_1
+
+C "rowdecoder schematic SRAM" "rowdecoder layout SRAM"
+N net6 avC3
+N net5 avC8
+N net3 avC9
+N net4 avC5
+N net2 avC7
+N net1 avC10
+N a0 avC4
+N a1 avC2
+N gnd avT598_1
+N vdd avC6
+N w0 avC14
+N w1 avC12
+N w2 avC13
+N w3 avC11
+I I8 I8
+I I7 I6
+I I6 I7
+I I5 I5
+I I1 I0
+I I0 I1
+I I9 I9
+I I4 I3
+I I3 I4
+I I2 I2
+
+C "sramcell schematic SRAM" "sramcell layout SRAM"
+N q_bar avC2
+N q avC1
+N gnd avT598_1
+N vdd avC4
+N wl avC5
+N bl avC6
+N bl_bar avC7
+I PM1 avD10_1
+I PM0 avD10_2
+I NM3 avD2_1
+I NM2 avD2_3
+I NM1 avD2_2
+I NM0 avD2_4
+
+C "columndecoder schematic SRAM" "columndecoder layout SRAM"
+N net1 avC3
+N bl avC6
+N gnd avT598_1
+N a3 avC2
+N vdd avC4
+N bl_bar avC5
+I I8 I8
+I I7 I7
+I I6 I6
+
+C "senseamp schematic SRAM" "senseamp layout SRAM"
+N net7 avC3
+N net2 avC5
+N net3 avC7
+N net1 avC8
+N vdd avC1
+N data_out avC6
+N read_enable avC2
+N gnd avT598_1
+N bl avC9
+N bl_bar avC10
+I PM5 avD10_2
+I PM4 avD10_4
+I PM1 avD10_1
+I PM0 avD10_3
+I NM4 avD2_5
+I NM3 avD2_4
+I NM2 avD2_1
+I NM1 avD2_3
+I NM0 avD2_2
+I I4 I4
+I I3 I3
+
+C "read_write schematic SRAM" "read_write layout SRAM"
+N net1 avC1
+N net2 avC3
+N data_in avC4
+N bl_bar avC8
+N write_enable avC6
+N vdd avC5
+N bl avC7
+N gnd avT598_1
+I PM1 avD10_2
+I PM2 avD10_1
+I NM0 avD2_1
+I NM3 avD2_2
+I NM2 avD2_4
+I NM1 avD2_3
+
+C "sram_final schematic SRAM" "sram_final layout SRAM"
+N net1 avC19
+N net12 avC18
+N net11 avC15
+N net14 avC14
+N net5 avC17
+N net6 avC16
+N net4 avC13
+N net3 avC12
+N net9 avC22
+N net7 avC20
+N net15 avC24
+N net13 avC21
+N net8 avC11
+N net10 avC23
+N read_en read_en
+N write_en write_en
+N data_out data_out
+N data_in data_in
+N a3 a3
+N a1 a1
+N a0 a0
+N precharge precharge
+N vdd vdd
+N gnd gnd
+I NM2 avD2_3
+I NM0 avD2_1
+I NM3 avD2_4
+I NM1 avD2_2
+I I14 I14
+I I13 I13
+I I11 I11
+I I12 I12
+I I3 I3
+I I2 I2
+I I5 I5
+I I4 I4
+I I7 I7
+I I6 I6
+I I9 I9
+I I8 I8
+I I10 I10
+I I1 I1
+I I0 I0
+

@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      nitesh.bakhati
+HostName                       ece-lnx-08.ad.ufl.edu
+ProcessIdentifier              122558
+ProcessCreationTime_UTC        1731910785
+ProcessCreationTime_Readable   Mon Nov 18 01:19:45 2024 EST
+AppIdentifier                  /apps/cds/IC618/tools/dfII/bin/64bit/libManager
+OSType                         lnx86
+ReasonForPlacingEditLock       log file
+FilePathUsedToEditLock         /ecel/UFAD/nitesh.bakhati/Desktop/SRAM/libManager.log.1
+TimeEditLocked                 Mon Nov 18 01:19:45 2024 EST

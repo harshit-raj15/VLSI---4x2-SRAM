@@ -1,0 +1,29 @@
+\o Program:		@(#)$CDS: cdsLibEditor version 6.1.8 - CAT37 04/25/2024 14:36 (csvcm36c-7) $
+\o Sub version:		sub-version  s364 
+\o Arguments:		-cdslib /ecel/UFAD/nitesh.bakhati/Desktop/SRAM/cds.lib -mpssession virtuoso63678 -mpshost ece-lnx-06 -mpsversion 6.18 
+\o Working Directory:	ece-lnx-06:/ecel/UFAD/nitesh.bakhati/Desktop/SRAM
+\o 64-bit offsets
+\a nrSetWindowVisibility(cdsLibEditor "show")
+\o Qt version: 		5.9.1
+\a nrSetCurrentWindow(cdsLibEditor)
+\a nrListItemAction(cdsLibEditor->mainTable 0 0)
+\o Active cell: 0 0 "cdsDefTechLib"
+\a nrResizeWindow(cdsLibEditor list(0 28 500 400))
+\a nrListItemAction(cdsLibEditor->mainTable 13 1)
+\o Active cell: 13 1 "/ecel/UFAD/harshitraj/Desktop/SRAM/SRAM"
+\a nrListItemRename(cdsLibEditor->mainTable, 13 1 "/home/UFAD/nitesh.bakhati/Desktop/SRAM")
+\a nrListItemAction(cdsLibEditor->mainTable 14 0)
+\o Active cell: 14 0 ""
+\a cdsLibEditor->fileSaveButton->value = t
+\a nrSetCurrentWindow(cdsLibEditor)
+\a nrListItemAction(cdsLibEditor->mainTable 13 1)
+\o Active cell: 13 1 "/home/UFAD/nitesh.bakhati/Desktop/SRAM"
+\a nrListItemAction(cdsLibEditor->mainTable 12 1)
+\o Active cell: 12 1 "/apps/cds/assura/tools.lnx86/assura/etc/avtech/avTech"
+\a nrListItemAction(cdsLibEditor->mainTable 13 1)
+\o Active cell: 13 1 "/home/UFAD/nitesh.bakhati/Desktop/SRAM"
+\a nrListItemRename(cdsLibEditor->mainTable, 13 1 "/home/UFAD/nitesh.bakhati/Desktop/SRAM/SRAM")
+\a nrListItemAction(cdsLibEditor->mainTable 14 0)
+\o Active cell: 14 0 ""
+\a cdsLibEditor->fileSaveButton->value = t
+\a nrSetCurrentWindow(cdsLibEditor)

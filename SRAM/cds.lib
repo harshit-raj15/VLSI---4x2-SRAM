@@ -1,0 +1,12 @@
+# File Created by harshitraj at Sat Nov 23 23:48:01 2024
+# assisted by CdsLibEditor
+# File Created by nitesh.bakhati at Mon Nov 18 01:03:52 2024
+# assisted by CdsLibEditor
+INCLUDE $SYSTEM_CDS_LIB_DIR/cds.lib
+DEFINE gpdk180 $CDS_SITE/GPDK180/libs.oa22/gpdk180
+DEFINE substrateLib $CDS_SITE/GPDK180/libs.oa22/substrateLib
+DEFINE gpdk045 $CDS_SITE/GPDK045/gpdk045
+DEFINE avTech /apps/cds/assura/tools.lnx86/assura/etc/avtech/avTech
+#Removed by ddDeleteObj: DEFINE SRAM /home/UFAD/harshitraj/Desktop/SRAM/SRAM
+#Removed by ddDeleteObj: DEFINE backup /ecel/UFAD/harshitraj/Desktop/SRAM/backup
+DEFINE SRAM /home/UFAD/harshitraj/Desktop/SRAM/SRAM

@@ -1,0 +1,8 @@
+vuiLVSdebugRunInfo = list( nil
+   'layoutLibrary "SRAM"
+   'layoutCell "precharge"
+   'layoutView "layout"
+   'schematicLibrary "SRAM"
+   'schematicCell "precharge"
+   'schematicView "schematic"
+)

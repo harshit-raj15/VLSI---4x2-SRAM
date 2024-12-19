@@ -1,0 +1,20 @@
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "inverter schematic SRAM" "inverter layout SRAM"
+N vdd vdd
+N gnd gnd
+N in in
+N out out
+I NM0 avD2_1
+I PM0 avD10_1
+

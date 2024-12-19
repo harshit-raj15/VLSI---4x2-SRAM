@@ -1,0 +1,24 @@
+
+***** Begin Label Report *****
+
+ Label in cell '2nand layout SRAM':
+  info: Assign pin label "gnd" at (0.7800, 0.6900) to layer `metal1_conn'.
+  info: Assign pin label "a" at (0.3400, 1.1850) to layer `metal1_conn'.
+  info: Assign pin label "b" at (1.2250, 1.0800) to layer `metal1_conn'.
+  info: Assign pin label "out" at (0.7800, 1.5350) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (0.7800, 2.1750) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell '2nand layout SRAM':
+  info: Assign pin label "gnd" at (0.7800, 0.6900) to layer `metal1_conn'.
+  info: Assign pin label "a" at (0.3400, 1.1850) to layer `metal1_conn'.
+  info: Assign pin label "b" at (1.2250, 1.0800) to layer `metal1_conn'.
+  info: Assign pin label "out" at (0.7800, 1.5350) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (0.7800, 2.1750) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

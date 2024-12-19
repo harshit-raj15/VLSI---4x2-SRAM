@@ -1,0 +1,6 @@
+Schematic                       | Layout                       | Status
+-------------------------------------------------------------------------------
+inverter schematic SRAM         | inverter layout SRAM         | matched    
+columndecoder schematic SRAM    | columndecoder layout SRAM    | matched    
+
+Schematic and Layout Match

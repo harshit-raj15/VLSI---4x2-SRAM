@@ -1,0 +1,10 @@
+!<alc> v1 25
+0    7    0 inverter layout SRAM
+0    6    0 2nand layout SRAM
+0   23    0 sramcell layout SRAM
+0   22    0 senseamp layout SRAM
+0   21    0 rowdecoder layout SRAM
+0   20    0 read_write layout SRAM
+0   19    0 precharge layout SRAM
+0   18    0 columndecoder layout SRAM
+0   24    0 sram_final layout SRAM

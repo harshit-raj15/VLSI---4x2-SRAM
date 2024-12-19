@@ -1,0 +1,7 @@
+Schematic                      | Layout                      | Status
+-------------------------------------------------------------------------------
+2nand schematic SRAM           | 2nand layout SRAM           | matched      
+inverter schematic SRAM        | inverter layout SRAM        | matched      
+rowdecoder schematic SRAM      | rowdecoder layout SRAM      | matched      
+
+Schematic and Layout Match

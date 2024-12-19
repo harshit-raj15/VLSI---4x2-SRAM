@@ -1,0 +1,31 @@
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "inverter schematic SRAM" "inverter layout SRAM"
+N vdd avC4
+N gnd avT598_1
+N in avC3
+N out avC2
+I NM0 avD2_1
+I PM0 avD10_1
+
+C "columndecoder schematic SRAM" "columndecoder layout SRAM"
+N net1 avC6
+N bl bl
+N gnd gnd
+N a3 a3
+N vdd vdd
+N bl_bar bl_bar
+I I8 I8
+I I7 I7
+I I6 I6
+

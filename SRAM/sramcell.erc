@@ -1,0 +1,24 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'sramcell layout SRAM':
+  info: Assign pin label "gnd" at (1.2400, 0.1700) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (1.2350, 1.3350) to layer `metal1_conn'.
+  info: Assign pin label "bl" at (0.8400, 2.1300) to layer `metal1_conn'.
+  info: Assign pin label "wl" at (1.2400, 1.8400) to layer `metal1_conn'.
+  info: Assign pin label "bl_bar" at (1.6350, 2.1300) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'sramcell layout SRAM':
+  info: Assign pin label "gnd" at (1.2400, 0.1700) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (1.2350, 1.3350) to layer `metal1_conn'.
+  info: Assign pin label "bl" at (0.8400, 2.1300) to layer `metal1_conn'.
+  info: Assign pin label "wl" at (1.2400, 1.8400) to layer `metal1_conn'.
+  info: Assign pin label "bl_bar" at (1.6350, 2.1300) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

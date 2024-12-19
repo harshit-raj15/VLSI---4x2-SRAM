@@ -1,0 +1,32 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'rowdecoder layout SRAM':
+  info: Assign pin label "gnd" at (3.0250, 0.4850) to layer `metal1_conn'.
+  info: Assign pin label "a1" at (1.3400, 2.9000) to layer `metal1_conn'.
+  info: Assign pin label "w3" at (4.0050, 1.0600) to layer `metal1_conn'.
+  info: Assign pin label "a0" at (1.3400, 4.6800) to layer `metal1_conn'.
+  info: Assign pin label "w2" at (4.0050, 2.8800) to layer `metal1_conn'.
+  info: Assign pin label "w1" at (4.0050, 4.7250) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (2.9100, 7.3400) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (2.9100, 7.3500) to layer `metal1_conn'.
+  info: Assign pin label "w0" at (4.0050, 6.5650) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'rowdecoder layout SRAM':
+  info: Assign pin label "gnd" at (3.0250, 0.4850) to layer `metal1_conn'.
+  info: Assign pin label "a1" at (1.3400, 2.9000) to layer `metal1_conn'.
+  info: Assign pin label "w3" at (4.0050, 1.0600) to layer `metal1_conn'.
+  info: Assign pin label "a0" at (1.3400, 4.6800) to layer `metal1_conn'.
+  info: Assign pin label "w2" at (4.0050, 2.8800) to layer `metal1_conn'.
+  info: Assign pin label "w1" at (4.0050, 4.7250) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (2.9100, 7.3400) to layer `metal1_conn'.
+  info: Assign pin label "vdd" at (2.9100, 7.3500) to layer `metal1_conn'.
+  info: Assign pin label "w0" at (4.0050, 6.5650) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

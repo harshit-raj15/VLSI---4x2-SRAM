@@ -1,0 +1,13 @@
+"sramcell layout SRAM" "sramcell schematic SRAM" "g45n1svt(MOS)" "g45p1svt(MOS)"
+"senseamp layout SRAM" "senseamp schematic SRAM" "g45n1svt(MOS)" "g45p1svt(MOS)"
+"rowdecoder layout SRAM" "rowdecoder schematic SRAM"
+"read_write layout SRAM" "read_write schematic SRAM" "g45n1svt(MOS)" "g45p1svt(MOS)"
+"precharge layout SRAM" "precharge schematic SRAM" "g45p1svt(MOS)"
+"inverter layout SRAM" "inverter schematic SRAM" "g45n1svt(MOS)" "g45p1svt(MOS)"
+"g45p1svt(MOS)" "g45p1svt(MOS)"
+"g45n1svt(MOS)" "g45n1svt(MOS)"
+"columndecoder layout SRAM" "columndecoder schematic SRAM"
+"2nand layout SRAM" "2nand schematic SRAM" "g45n1svt(MOS)" "g45p1svt(MOS)"
+"sram_final layout SRAM" "sram_final schematic SRAM" "g45n1svt(MOS)"
+Devices filtered from layout
+"TIE"

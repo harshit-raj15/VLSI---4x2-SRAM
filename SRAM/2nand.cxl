@@ -1,0 +1,23 @@
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "2nand schematic SRAM" "2nand layout SRAM"
+N a a
+N b b
+N out out
+N vdd vdd
+N gnd gnd
+I PM1 avD10_2
+I PM0 avD10_1
+I NM1 avD2_1
+I NM0 avD2_2
+

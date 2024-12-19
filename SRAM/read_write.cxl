@@ -1,0 +1,28 @@
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "read_write schematic SRAM" "read_write layout SRAM"
+N net1 avC7
+N net2 avC8
+N data_in data_in
+N bl_bar bl_bar
+N write_enable write_enable
+N vdd vdd
+N bl bl
+N gnd gnd
+I PM1 avD10_2
+I PM2 avD10_1
+I NM0 avD2_1
+I NM3 avD2_2
+I NM2 avD2_4
+I NM1 avD2_3
+
